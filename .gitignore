@@ -1,2 +1,4 @@
 venv/
 .idea/
+omdb_key.txt
+__pycache__/
